@@ -17,7 +17,11 @@ function nbPair(nbTesté) {
     } else {
         console.log(`${nbTesté} est un nombre IMPAIR!`)
     }
-}
+};
 nbPair(nbTesté);
 
-console.log("---------------- Episode 41. Deux exercices --------------------")
+console.log("---------------- Episode 41. Deux exercices --------------------");
+console.log("Ex 1 ---------------- Faire une fonction permettant de calculer la moyenne de 3 nombres --------------------");
+console.log("---------------- Faire un exemple de l'algorithme appelant cette fonction --------------------");
+
+
