@@ -1,5 +1,7 @@
 console.log("OK DEBUT");
 console.log("---------- UDEMY: Les bases indispensables de la programmation : Algorithmique ------------")
+
+console.log("------------- Section 8 - Les fonctions ---------------")
 console.log("------------------------ EP 39: Deux execices : ex 2 ---------------------")
 
 // DEBUT
@@ -17,3 +19,5 @@ function nbPair(nbTesté) {
     }
 }
 nbPair(nbTesté);
+
+console.log("---------------- Episode 41. Deux exercices --------------------")
