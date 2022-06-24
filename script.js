@@ -25,3 +25,4 @@ console.log("Ex 1 ---------------- Faire une fonction permettant de calculer la 
 console.log("---------------- Faire un exemple de l'algorithme appelant cette fonction --------------------");
 
 
+// Test push
